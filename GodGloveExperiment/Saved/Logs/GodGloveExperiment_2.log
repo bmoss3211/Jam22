@@ -5004,3 +5004,156 @@ Transition_State_BP
 [2022.01.30-01.29.55:181][899]Cmd: MAP CHECK NOTIFYRESULTS
 [2022.01.30-01.29.55:181][899]MapCheck: New page: Demonstration - Jan 29, 2022, 3:29:55 PM
 [2022.01.30-01.29.55:181][899]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.269ms to complete.
+[2022.01.30-01.34.30:061][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_garage)
+[2022.01.30-01.34.38:129][699]MapCheck: New page: Map Check
+[2022.01.30-01.34.38:186][699]Cmd: MAP REBUILD ALLVISIBLE
+[2022.01.30-01.34.38:186][699]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.01.30-01.34.38:187][699]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=false
+[2022.01.30-01.34.38:262][699]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.01.30-01.34.38:262][699]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.01.30-01.34.38:262][699]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.01.30-01.34.38:318][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.01.30-01.34.38:339][699]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2022.01.30-01.34.38:341][699]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.01.30-01.34.38:345][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.01.30-01.34.38:352][699]LightingResults: New page: Lighting Build - Jan 29, 2022, 3:34:38 PM
+[2022.01.30-01.34.38:355][699]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.01.30-01.34.38:360][699]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.01.30-01.34.38:360][699]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.01.30-01.34.38:361][699]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.01.30-01.34.38:361][699]LogSwarmInterface: [TryOpenConnection] Local Process ID is 24560
+[2022.01.30-01.34.43:041][699]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.01.30-01.34.43:041][699]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.01.30-01.34.43:041][699]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.01.30-01.34.43:041][699]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.01.30-01.34.43:041][699]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.01.30-01.34.43:134][699]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.01.30-01.34.43:134][699]MapCheck: New page: Demonstration - Jan 29, 2022, 3:34:43 PM
+[2022.01.30-01.34.43:135][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.285ms to complete.
+[2022.01.30-01.34.43:137][699]LogEditorBuildUtils: Build time 0:04
+[2022.01.30-01.34.43:148][699]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_Walls_garage in PCD3D_SM5, Default, SM5 (DDC key hash: 69708C0ED03DA9F1ED158569B9FDFF78A5B39B75), compiling. 
+[2022.01.30-01.34.43:151][699]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_Walls_garage in PCD3D_SM5, Default, SM5 (DDC key hash: 74E097C3D20C15453EF36AE19CA89F194287694A), compiling. 
+[2022.01.30-01.34.43:156][699]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.30-01.34.43:156][699]LogShaderCompilers: Display: Total job queries 17265, among them cache hits 3227 (18.69%)
+[2022.01.30-01.34.43:156][699]LogShaderCompilers: Display: Tracking 13990 distinct input hashes that result in 5040 distinct outputs (36.03%)
+[2022.01.30-01.34.43:157][699]LogShaderCompilers: Display: RAM used: 32.52 MB (0.03 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.98%
+[2022.01.30-01.34.43:157][699]LogShaderCompilers: Display: ================================================
+[2022.01.30-01.34.43:681][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.01.30-01.34.54:106][316]Job is a success!
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport:      Bricks at depth
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport:      Bricks in each level
+[2022.01.30-01.34.54:254][317]LogVolumetricLightmapImport:          Demonstration 			 6 bricks 	 100.0% (Persistent Level)
+[2022.01.30-01.34.54:391][317]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.01.30-01.34.54:391][317]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.01.30-01.34.54:391][317]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.01.30-01.34.54:391][317]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.30-01.34.54:391][317]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X256)
+[2022.01.30-01.34.54:392][317]LogStaticLightingSystem: Demonstration_BuiltData storing lightmap data for 23 meshes in 2 LightmapResourceClusters (11.5 Meshes per cluster).
+[2022.01.30-01.34.54:399][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.01.30-01.34.54:429][317]Lightmass on DESKTOP: 10.4 sec total, 66 ms importing, 3 ms setup, 678 ms photons, 9.65 sec processing, 0 ms extra exporting [23/23 mappings]. Threads: 2:24 min total, 45.5 sec processing.
+[2022.01.30-01.34.54:468][317]LogStaticLightingSystem: Illumination: 16.0 sec (66 ms encoding lightmaps, 43 ms encoding shadowmaps)
+[2022.01.30-01.34.54:468][317]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.01.30-01.34.54:468][317]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.01.30-01.34.55:059][317]DumpUnbuiltLightIteractions
+[2022.01.30-01.34.55:059][317]Lights with unbuilt interactions: 0
+[2022.01.30-01.34.55:059][317]
+[2022.01.30-01.34.55:059][317]Primitives with unbuilt interactions: 0
+[2022.01.30-01.34.55:145][317]LogTexture: Display: Building textures: NewReflectionComponentTexture62E283794EA9424FFCDAD1AB91326EE1 (BGRA8, 128X128)
+[2022.01.30-01.34.55:158][317]LogTexture: Display: Building textures: NewReflectionComponentTexture72A651DC44749339450AC4823BB740D1 (BGRA8, 128X128)
+[2022.01.30-01.34.55:214][318]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.01.30-01.34.55:214][318]MapCheck: New page: Demonstration - Jan 29, 2022, 3:34:55 PM
+[2022.01.30-01.34.55:214][318]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2022.01.30-01.35.03:582][343]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.30-01.35.03:587][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.30-01.35.03:587][343]PIE: New page: PIE session: Demonstration (Jan 29, 2022, 3:35:03 PM)
+[2022.01.30-01.35.03:588][343]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.30-01.35.03:589][343]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.30-01.35.03:589][343]LogPlayLevel: Creating play world package: /Game/_Main/Level/UEDPIE_0_Demonstration
+[2022.01.30-01.35.03:598][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008419s)
+[2022.01.30-01.35.03:599][343]LogAIModule: Creating AISystem for world Demonstration
+[2022.01.30-01.35.03:599][343]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2022.01.30-01.35.03:599][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/Level/Demonstration.Demonstration to /Game/_Main/Level/UEDPIE_0_Demonstration.Demonstration (0.009773s)
+[2022.01.30-01.35.03:611][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.01.30-01.35.03:611][343]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.30-01.35.03:611][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.30-01.35.03:611][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.30-01.35.03:611][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.30-01.35.03:611][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.30-01.35.03:611][343]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.30-01.35.03:611][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.30-01.35.03:611][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.30-01.35.03:611][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.30-01.35.03:612][343]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.30-01.35.03:612][343]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.30-01.35.03:612][343]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.30-01.35.03:612][343]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.30-01.35.03:643][343]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.30-01.35.03:644][343]LogAudioMixer: Display: 1: FrontRight
+[2022.01.30-01.35.03:648][343]LogAudioMixer: Display: Using Audio Device Speakers (Steam Streaming Speakers)
+[2022.01.30-01.35.03:649][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.30-01.35.03:649][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.30-01.35.03:649][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.30-01.35.03:650][343]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.30-01.35.03:650][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.30-01.35.03:650][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.30-01.35.03:651][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.30-01.35.03:651][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.30-01.35.03:651][343]LogInit: FAudioDevice initialized.
+[2022.01.30-01.35.03:651][343]LogAudio: Display: Audio Device (ID: 2) registered with world 'Demonstration'.
+[2022.01.30-01.35.03:662][343]LogLoad: Game class is 'GameModeBase'
+[2022.01.30-01.35.03:706][343]LogWorld: Bringing World /Game/_Main/Level/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.01.29-20.35.03
+[2022.01.30-01.35.03:707][343]LogWorld: Bringing up level for play took: 0.044046
+[2022.01.30-01.35.03:707][343]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.01.30-01.35.03:750][343]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2022.01.30-01.35.03:751][343]PIE: Server logged in
+[2022.01.30-01.35.03:752][343]PIE: Play in editor total start time 0.166 seconds.
+[2022.01.30-01.35.03:769][344]LogBlueprintUserMessages: [Transition_State_BP_2] Aborted
+[2022.01.30-01.35.13:246][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-01.35.13:246][384]LogWorld: BeginTearingDown for /Game/_Main/Level/UEDPIE_0_Demonstration
+[2022.01.30-01.35.13:246][384]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.01.30-01.35.13:246][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-01.35.13:256][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.30-01.35.13:276][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.30-01.35.13:280][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.30-01.35.13:280][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-01.35.13:281][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.30-01.35.13:284][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.01.30-01.35.13:324][387]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.01.30-01.35.30:135][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_garage)
+[2022.01.30-01.35.39:752][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BackWall5)
+[2022.01.30-01.36.06:475][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BackWall4)
+[2022.01.30-01.36.07:948][504]LogEditorViewport: Clicking Background
+[2022.01.30-01.36.14:863][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BackWall5)
+[2022.01.30-01.36.15:927][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Outlet6)
+[2022.01.30-01.36.32:260][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BackWall)
+[2022.01.30-01.36.35:018][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BackWall5)
+[2022.01.30-01.36.45:102][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Outlet5)
+[2022.01.30-01.36.45:708][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BackWall5)
+[2022.01.30-01.36.46:670][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Outlet5)
+[2022.01.30-01.36.51:055][610]Cmd: TRANSACTION UNDO
+[2022.01.30-01.36.51:055][610]LogEditorTransaction: Undo Move Actors
+[2022.01.30-01.37.12:580][133]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 6
+[2022.01.30-01.39.37:370][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.01.30-01.39.37:399][566]LogSavePackage: Moving '../../../../Real/GodGloveExperiment/Saved/Demonstration_Auto24517D05246CEDBE08EC8BDA29357CE5E.tmp' to '../../../../Real/GodGloveExperiment/Saved/Autosaves/Game/_Main/Level/Demonstration_Auto2.umap'
+[2022.01.30-01.39.37:401][566]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/Level/Demonstration' took 0.036
+[2022.01.30-01.39.37:401][566]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2022.01.30-01.39.37:401][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BackWall] ([1] browsable assets)...
+[2022.01.30-01.39.37:415][566]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/BackWall.BackWall]
+[2022.01.30-01.39.37:415][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/BackWall]
+[2022.01.30-01.39.37:415][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BackWall" FILE="../../../../Real/GodGloveExperiment/Saved/Autosaves/Game/BackWall_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.01.30-01.39.37:420][566]LogSavePackage: Moving '../../../../Real/GodGloveExperiment/Saved/BackWall_Auto20EAB8FEB4C1872BC64B46D98CF46CAB2.tmp' to '../../../../Real/GodGloveExperiment/Saved/Autosaves/Game/BackWall_Auto2.uasset'
+[2022.01.30-01.39.37:420][566]LogFileHelpers: Auto-saving content packages took 0.019
+[2022.01.30-01.49.00:609][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Level/Demonstration" FILE="../../../../Real/GodGloveExperiment/Content/_Main/Level/Demonstration.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.30-01.49.00:613][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.01.30-01.49.00:633][657]LogSavePackage: Moving '../../../../Real/GodGloveExperiment/Saved/Demonstration3EEA3EEB4B6700DBFADF06B0150B386B.tmp' to '../../../../Real/GodGloveExperiment/Content/_Main/Level/Demonstration.umap'
+[2022.01.30-01.49.00:646][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Level/Demonstration_BuiltData" FILE="../../../../Real/GodGloveExperiment/Content/_Main/Level/Demonstration_BuiltData.uasset" SILENT=true
+[2022.01.30-01.49.00:684][657]LogSavePackage: Moving '../../../../Real/GodGloveExperiment/Saved/Demonstration_BuiltData12F18FE1495F8A9024A350B510E3785F.tmp' to '../../../../Real/GodGloveExperiment/Content/_Main/Level/Demonstration_BuiltData.uasset'
+[2022.01.30-01.49.00:695][657]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.30-01.49.00:695][657]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_Main/Level/Demonstration_BuiltData.Demonstration_BuiltData
+[2022.01.30-01.49.00:695][657]LogContentValidation: Display: Validating World /Game/_Main/Level/Demonstration.Demonstration
